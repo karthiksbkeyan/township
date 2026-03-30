@@ -1,1 +1,1 @@
-web: gunicorn township.wsgi
+web: gunicorn township.township.wsgi
